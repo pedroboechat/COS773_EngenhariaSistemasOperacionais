@@ -1,0 +1,1 @@
+Quando duas threads inserem ao mesmo tempo, e->next será o mesmo elemento 
